@@ -1,0 +1,29 @@
+* {  margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: linear-gradient(rgb(17, 28, 22),rgb(30, 30, 30))
+}
+.boxy{
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    min-height: 150px;
+    background: #fff;
+    color: #000000;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+
+}
+.texx{
+    color: #fff;
+    font-size: 50px;
+}
